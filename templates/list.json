@@ -110,5 +110,19 @@
         "lastUpdate": "2020-05-13T09:13:05.794Z",
         "forVersion": "1",
         "technology": "GatsbyJs"
+    },
+    {
+        "name": "Travel Blog",
+        "description": "A sample travel blog built with VueJS and Kentico Kontent.",
+        "repoUrl": "https://github.com/Kentico/kontent-sample-blog-travel-vue",
+        "exportPackageUrl": "https://github.com/Kentico/kontent-sample-blog-travel-vue/archive/master.zip",
+        "imageUrl": "https://raw.githubusercontent.com/Kentico/kontent-sample-blog-travel-vue/master/template.jpg",
+        "author": {
+            "name": "Christopher Jennings",
+            "email": "devrel@kentico.com"
+        },
+        "lastUpdate": "2020-06-03T15:05:19.733Z",
+        "forVersion": "0.0.3",
+        "technology": "Vue.js"
     }
 ]
