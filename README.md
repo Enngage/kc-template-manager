@@ -2,7 +2,7 @@
 
 [![Template manager](https://img.shields.io/badge/-Template%20Manager-brightgreen.svg)](https://kentico.github.io/kontent-template-manager/)
 
-[![Build Status](https://api.travis-ci.com/Kentico/kontent-template-manager.svg?branch=master)](https://travis-ci.com/Kentico/kontent-template-manager)
+[![Build & Deploy](https://github.com/Kentico/kontent-template-manager/actions/workflows/integrate.yml/badge.svg)](https://github.com/Kentico/kontent-template-manager/actions/workflows/integrate.yml)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/03673043-ac8f-484c-89e4-e80d0bd2b371/deploy-status)](https://app.netlify.com/sites/kontent-template-manager/deploys)
 
 ### About
